@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         // some code
-        view.backgroundColor = .red
+        view.backgroundColor = .white
     }
 
 
